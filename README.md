@@ -15,27 +15,21 @@ With over 10 years of experience in the Supply Chain Industry and Data Analysis,
 <H2><B>Professional Experience</B></H2>
 
 <b>Business Analyst - Burnac Produce Ltd. (Aug 2021 – Present)</B>
-- Conducted comprehensive data and financial analysis, resulting in over $500,000 in annual cost savings.
-- Utilized BI tools for ETL analysis and KPI visualization dashboards.
-- Implemented data-driven strategies in Microsoft Dynamics Nav.
 
 <b>Inventory Control & Application Support Analyst - Burnac Produce Ltd. (Sep 2013 – Aug 2021)</B>
-- Improved inventory accuracy by 10% through root cause analysis and process improvement.
-- Successfully managed an annual offshore citrus project, generating millions in revenue.
-- Provided support for Microsoft Dynamics Nav and created dashboards for analyzing application support requests.
 
 <b>Data Administrator and Sales Support - Burnac Produce Ltd. (Jun 2011 – Aug 2013)</B>
-- Processed over $500,000 worth of sales orders daily in Microsoft Nav.
-- Acted as a liaison between sales managers and various teams, coordinating sales activities.
 
 <b>Procurement Assistant - Iqbal Foods Inc. (Jan 2006 – Jun 2011)</B>
-- Assisted the produce manager in procuring fresh produce for resale.
-- Managed the operations and finances of the produce department, leading to a daily revenue exceeding $15,000.
-- Executed sales and pricing strategies by applying insights from market research.
 
 <H2><B>Education & Certifications</B></H2>H2>
 - Bachelor of Arts - Economics, York University, Toronto, ON (2020)
-- Google Business Intelligence Professional Certification, Coursera Online (2024)
+
+<H2><B>Certifications</B></H2>H2>
+- Google Business Intelligence Professional Certification, Google/Coursera (2024).
+- Digital Transformation Using Artificial Intelligence/Machine Learning with Google Cloud Specialization Certification, Coursera/Google (2024).
+- Programming for Everybody (Getting Started with Python) Certification, University of Michigan-Online (2024).
+- SQL for Data Science Certification, University of California, Davis-Online (2024).
 
 <h2>Contact Information</B></H2>
 
