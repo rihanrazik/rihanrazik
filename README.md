@@ -26,12 +26,11 @@ With over 10 years of experience in the Supply Chain Industry and Data Analysis,
 - Bachelor of Arts - Economics, York University, Toronto, ON (2020)
 
 <H2><B>Certifications</B></H2>
+
 - Google Business Intelligence Professional Certification, Google/Coursera (2024).
 
 - Digital Transformation Using Artificial Intelligence/Machine Learning with Google Cloud Specialization Certification, Coursera/Google (2024).
-- 
 - Programming for Everybody (Getting Started with Python) Certification, University of Michigan-Online (2024).
-- 
 - SQL for Data Science Certification, University of California, Davis-Online (2024).
 
 <h2>Contact Information</B></H2>
