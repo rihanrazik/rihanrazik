@@ -22,7 +22,7 @@ With over 10 years of experience in the Supply Chain Industry and Data Analysis,
 
 <b>Procurement Assistant - Iqbal Foods Inc. (Jan 2006 – Jun 2011)</B>
 
-<H2><B>Education & Certifications</B></H2>H2>
+<H2><B>Education & Certifications</B></H2>
 - Bachelor of Arts - Economics, York University, Toronto, ON (2020)
 
 <H2><B>Certifications</B></H2>H2>
