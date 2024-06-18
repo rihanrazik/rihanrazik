@@ -16,7 +16,7 @@ With over 10 years of experience in the Supply Chain Industry and Data Analysis,
 
 <b>Business Data Analyst - Burnac Produce Ltd. (Aug 2021 – Present)</B>
 
-<b>Inventory Control & Application Support Analyst - Burnac Produce Ltd. (Sep 2013 – Aug 2021)</B>
+<b>Data Analyst & ERP Support Specialist - Burnac Produce Ltd. (Sep 2013 – Aug 2021)</B>
 
 <b>Data Administrator and Sales Support - Burnac Produce Ltd. (Jun 2011 – Aug 2013)</B>
 
