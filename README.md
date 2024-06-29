@@ -12,27 +12,6 @@ With over 10 years of experience in the Supply Chain Industry and Data Analysis,
 - <b>Certifications:</b> Google Business Intelligence Professional Certification.<br>
 - <b>Tools:</b> Proficient in Advanced Excel, BI Tools (Power BI, SQL, Tableau, Looker, Google BigQuery), and ERP Systems (Microsoft Dynamics Nav/D365).<br>
 
-<H2><B>Professional Experience</B></H2>
-
-<b>Business Data Analyst - Burnac Produce Ltd. (Aug 2021 – Present)</B>
-
-<b>Data Analyst & ERP Support Specialist - Burnac Produce Ltd. (Sep 2013 – Aug 2021)</B>
-
-<b>Data Administrator and Sales Support - Burnac Produce Ltd. (Jun 2011 – Aug 2013)</B>
-
-<b>Procurement Assistant - Iqbal Foods Inc. (Jan 2006 – Jun 2011)</B>
-
-<H2><B>Education & Certifications</B></H2>
-- Bachelor of Arts - Economics, York University, Toronto, ON (2020)
-
-<H2><B>Certifications</B></H2>
-
-- Google Business Intelligence Professional Certification, Google/Coursera (2024).
-
-- Digital Transformation Using Artificial Intelligence/Machine Learning with Google Cloud Specialization Certification, Coursera/Google (2024).
-- Programming for Everybody (Getting Started with Python) Certification, University of Michigan-Online (2024).
-- SQL for Data Science Certification, University of California, Davis-Online (2024).
-
 <h2>Contact Information</B></H2>
 
 <b>Location:</b> Toronto, Ontario<br>
